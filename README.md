@@ -1,4 +1,4 @@
-# projet_6
+# Projet-6
 # Projet 6 : Concevez la solution technique d’un système de gestion de pizzeria
 
 Dépot Github : https://github.com/nicoseng/Projet-6
